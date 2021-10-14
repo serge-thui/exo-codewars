@@ -1,0 +1,11 @@
+img{
+    max-width: 70%;
+}
+#carousel{
+    display: flex;
+    flex-direction: row;
+}
+button{
+    height: 80px;
+    width: 100px;
+}
